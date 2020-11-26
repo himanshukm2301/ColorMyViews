@@ -1,3 +1,3 @@
 # ColorMyViews
 
-A Basic Coloring App.
+A Basic Coloring App
